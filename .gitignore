@@ -18,3 +18,4 @@ imgui.ini
 **/xcshareddata
 *.ini
 *.lastcodeanalysissucceeded
+/Box2D/Documentation/API/html
